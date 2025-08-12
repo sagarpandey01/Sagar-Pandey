@@ -1,25 +1,23 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Sagar Pandey</h1>
-<h3 align="center">🚀 Passionate B.Tech (CSE) Student | GLA University, Mathura</h3>
+<!-- Animated Name Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=3000&pause=500&color=F7971E&center=true&vCenter=true&width=600&lines=Hey%F0%9F%91%8B+I'm+Sagar+Pandey;B.Tech+%7C+GLA+University;Coder+%7C+Innovator+%7C+Learner" alt="Typing SVG" />
+</h1>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1DDAF2&center=true&vCenter=true&width=600&lines=👨‍💻+B.Tech+2nd+Year+Student;💡+Exploring+Java%2C+Python%2C+and+Web+Dev;🚀+Lifelong+Learner+and+Problem+Solver;🎯+Goal%3A+Build+Impactful+Projects">
-</p>
+<h3 align="center">🚀 B.Tech CSE | 2nd Year | Mathura, India</h3>
 
 ---
 
-### 🚀 About Me
-- 🎓 **B.Tech (Computer Science)** – 2nd Year at **GLA University, Mathura**
-- 💻 Currently working on **Java, Python, and Data Structures**
-- 🌱 Learning **Web Development & Competitive Programming**
-- 🎯 Goal: **Create innovative and impactful projects**
-- ⚡ Fun Fact: **I debug faster when I have chai ☕**
+### 👨‍💻 About Me
+- 🎓 **B.Tech (CSE)** – 2nd Year at **GLA University, Mathura**
+- 💻 Currently working on **Java, Python, and Web Development**
+- 🌱 Exploring **DSA & Competitive Programming**
+- 🎯 Goal: **Build impactful, real-world projects**
+- ⚡ Fun fact: **I code better with chai ☕**
 
 ---
 
 ### 📬 Connect With Me
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/sagar-pandey" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/sagarpandey" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:sagar@example.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -28,7 +26,7 @@
 ---
 
 ### 🛠️ Languages & Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,c,cpp,vscode" />
 </p>
 
@@ -36,29 +34,29 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sagarpandey&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpandey&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sagarpandey&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpandey&theme=radical" />
 </p>
 
 ---
 
 ### 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpandey&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpandey&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🎯 Fun Quote
-> *"Code is like humor. When you have to explain it, it’s bad."*
+### 📌 Fun Quote
+> *"Talk is cheap. Show me the code." — Linus Torvalds*
 
 ---
 
-### 💡 Visitor Counter
+### 👀 Visitor Counter
 <p align="center">
   <img src="https://profile-counter.glitch.me/sagarpandey/count.svg" />
 </p>
 
 ---
 
-⭐ **"Consistency beats intensity — Keep coding, keep growing!"** ⭐
+⭐ **"Dream in code, build in reality."** ⭐
